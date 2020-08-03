@@ -1,0 +1,9 @@
+﻿  main.cpp
+e:\大三\大三下\计算机图形学\实验作业\homework\homework\main.cpp(165): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\大三\大三下\计算机图形学\实验作业\homework\homework\main.cpp(264): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\大三\大三下\计算机图形学\实验作业\homework\homework\main.cpp(265): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\大三\大三下\计算机图形学\实验作业\homework\homework\main.cpp(269): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\大三\大三下\计算机图形学\实验作业\homework\homework\main.cpp(270): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\大三\大三下\计算机图形学\实验作业\homework\homework\main.cpp(272): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\大三\大三下\计算机图形学\实验作业\homework\homework\main.cpp(273): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  homework.vcxproj -> E:\大三\大三下\计算机图形学\实验作业\homework\Debug\homework1.exe
